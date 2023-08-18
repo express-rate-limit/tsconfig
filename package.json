@@ -5,6 +5,7 @@
 	"main": "tsconfig.json",
 	"repository": "https://github.com/express-rate-limit/tsconfig",
 	"files": [
-		"tsconfig.json"
+		"tsconfig.json",
+		"package.json"
 	]
 }
