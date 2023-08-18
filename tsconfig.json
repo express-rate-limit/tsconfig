@@ -1,3 +1,6 @@
+// tsconfig.json
+// The Typescript configuration for express-rate-limit projects.
+
 {
 	"compilerOptions": {
 		"strict": true,
