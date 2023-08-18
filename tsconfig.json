@@ -1,4 +1,4 @@
-// tsconfig.json
+// /tsconfig.json
 // The Typescript configuration for express-rate-limit projects.
 
 {
