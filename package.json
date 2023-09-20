@@ -3,6 +3,7 @@
 	"version": "1.0.0",
 	"description": "The Typescript configuration for all express-rate-limit projects.",
 	"main": "tsconfig.json",
+	"license": "MIT",
 	"repository": "https://github.com/express-rate-limit/tsconfig",
 	"files": [
 		"tsconfig.json",
