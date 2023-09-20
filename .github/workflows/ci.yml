@@ -11,7 +11,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: lts/*
-      - run: node -e 'require("./tsconfig.json")' # just ensure it's valid JSON
+      - run: npm test
   publish:
     name: Publish
     needs: [smoke-test]

@@ -9,5 +9,8 @@
 		"tsconfig.json",
 		"package.json",
 		"readme.md"
-	]
+	],
+	"scripts": {
+		"test": "node -e 'require(\"./tsconfig.json\")' # just ensure it's valid JSON"
+	}
 }
