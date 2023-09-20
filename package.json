@@ -1,6 +1,6 @@
 {
 	"name": "@express-rate-limit/tsconfig",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "The Typescript configuration for all express-rate-limit projects.",
 	"main": "tsconfig.json",
 	"license": "MIT",
