@@ -6,6 +6,7 @@
 		"noImplicitReturns": true,
 		"noFallthroughCasesInSwitch": true,
 		"esModuleInterop": true,
-		"moduleResolution": "nodenext"
+		"moduleResolution": "nodenext",
+		"module": "nodenext"
 	}
 }
